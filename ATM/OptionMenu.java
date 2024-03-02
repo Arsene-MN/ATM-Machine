@@ -43,6 +43,8 @@ public class OptionMenu {
 		}
 	}
 
+
+//get account type
 	public void getAccountType(Account acc) {
 		boolean end = false;
 		while (!end) {
