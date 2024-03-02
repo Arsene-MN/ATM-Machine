@@ -169,7 +169,7 @@ public class Account {
 		}
 	}
 
-//
+// get transfer input from user
 	public void getTransferInput(String accType) {
 		boolean end = false;
 		while (!end) {
