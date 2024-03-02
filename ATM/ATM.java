@@ -7,7 +7,7 @@ public class ATM {
 		introduction();
 		optionMenu.mainMenu();
 	}
-
+//intro text
 	public static void introduction() {
 		System.out.println("Welcome to the ATM Project!");
 	}
