@@ -12,6 +12,8 @@ public class OptionMenu {
 	DecimalFormat moneyFormat = new DecimalFormat("'$'###,##0.00");
 	HashMap<Integer, Account> data = new HashMap<Integer, Account>();
 
+
+//login info
 	public void getLogin() throws IOException {
 		boolean end = false;
 		int customerNumber = 0;
