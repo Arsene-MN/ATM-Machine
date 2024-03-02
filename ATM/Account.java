@@ -146,6 +146,7 @@ public class Account {
 		}
 	}
 
+//get saving output
 	public void getSavingDepositInput() {
 		boolean end = false;
 		while (!end) {
@@ -168,6 +169,7 @@ public class Account {
 		}
 	}
 
+//
 	public void getTransferInput(String accType) {
 		boolean end = false;
 		while (!end) {
